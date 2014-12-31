@@ -1,0 +1,1 @@
+<h3>Lista de Equipos registrado</h3>
