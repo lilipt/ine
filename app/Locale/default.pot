@@ -1,0 +1,890 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-01-02 01:00+0100\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/EquiposController.php:37;72;100
+msgid "Invalid equipo"
+msgstr ""
+
+#: Controller/EquiposController.php:52;76
+msgid "The equipo has been saved."
+msgstr ""
+
+#: Controller/EquiposController.php:55;79
+msgid "The equipo could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/EquiposController.php:104
+msgid "The equipo has been deleted."
+msgstr ""
+
+#: Controller/EquiposController.php:106
+msgid "The equipo could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/MarcasController.php:37;69;94
+msgid "Invalid marca"
+msgstr ""
+
+#: Controller/MarcasController.php:52;73
+msgid "The marca has been saved."
+msgstr ""
+
+#: Controller/MarcasController.php:55;76
+msgid "The marca could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/MarcasController.php:98
+msgid "The marca has been deleted."
+msgstr ""
+
+#: Controller/MarcasController.php:100
+msgid "The marca could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/TiposController.php:37;69;94
+msgid "Invalid tipo"
+msgstr ""
+
+#: Controller/TiposController.php:52;73
+msgid "The tipo has been saved."
+msgstr ""
+
+#: Controller/TiposController.php:55;76
+msgid "The tipo could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TiposController.php:98
+msgid "The tipo has been deleted."
+msgstr ""
+
+#: Controller/TiposController.php:100
+msgid "The tipo could not be deleted. Please, try again."
+msgstr ""
+
+#: View/Equipos/add.ctp:4
+msgid "Add Equipo"
+msgstr ""
+
+#: View/Equipos/add.ctp:17
+#: View/Equipos/edit.ctp:18
+#: View/Marcas/add.ctp:9
+#: View/Marcas/edit.ctp:10
+#: View/Tipos/add.ctp:9
+#: View/Tipos/edit.ctp:10
+msgid "Submit"
+msgstr ""
+
+#: View/Equipos/add.ctp:20
+#: View/Equipos/edit.ctp:21
+#: View/Equipos/index.ctp:16;56
+#: View/Equipos/view.ctp:57
+#: View/Marcas/add.ctp:12
+#: View/Marcas/edit.ctp:13
+#: View/Marcas/index.ctp:8;40
+#: View/Marcas/view.ctp:17;42
+#: View/Tipos/add.ctp:12
+#: View/Tipos/edit.ctp:13
+#: View/Tipos/index.ctp:8;40
+#: View/Tipos/view.ctp:17;42
+msgid "Actions"
+msgstr ""
+
+#: View/Equipos/add.ctp:23
+#: View/Equipos/edit.ctp:25
+#: View/Equipos/view.ctp:61
+#: View/Marcas/add.ctp:16
+#: View/Marcas/edit.ctp:18
+#: View/Marcas/index.ctp:43
+#: View/Marcas/view.ctp:23
+#: View/Tipos/add.ctp:16
+#: View/Tipos/edit.ctp:18
+#: View/Tipos/index.ctp:43
+#: View/Tipos/view.ctp:23
+msgid "List Equipos"
+msgstr ""
+
+#: View/Equipos/add.ctp:24
+#: View/Equipos/edit.ctp:26
+#: View/Equipos/index.ctp:59
+#: View/Equipos/view.ctp:63
+#: View/Tipos/add.ctp:15
+#: View/Tipos/edit.ctp:17
+#: View/Tipos/view.ctp:21
+msgid "List Tipos"
+msgstr ""
+
+#: View/Equipos/add.ctp:25
+#: View/Equipos/edit.ctp:27
+#: View/Equipos/index.ctp:60
+#: View/Equipos/view.ctp:64
+#: View/Tipos/index.ctp:42
+#: View/Tipos/view.ctp:22
+msgid "New Tipo"
+msgstr ""
+
+#: View/Equipos/add.ctp:26
+#: View/Equipos/edit.ctp:28
+#: View/Equipos/index.ctp:61
+#: View/Equipos/view.ctp:65
+#: View/Marcas/add.ctp:15
+#: View/Marcas/edit.ctp:17
+#: View/Marcas/view.ctp:21
+msgid "List Marcas"
+msgstr ""
+
+#: View/Equipos/add.ctp:27
+#: View/Equipos/edit.ctp:29
+#: View/Equipos/index.ctp:62
+#: View/Equipos/view.ctp:66
+#: View/Marcas/index.ctp:42
+#: View/Marcas/view.ctp:22
+msgid "New Marca"
+msgstr ""
+
+#: View/Equipos/edit.ctp:4
+#: View/Equipos/view.ctp:59
+msgid "Edit Equipo"
+msgstr ""
+
+#: View/Equipos/edit.ctp:24
+#: View/Equipos/index.ctp:35
+#: View/Marcas/edit.ctp:16
+#: View/Marcas/index.ctp:19
+#: View/Marcas/view.ctp:59
+#: View/Tipos/edit.ctp:16
+#: View/Tipos/index.ctp:19
+#: View/Tipos/view.ctp:59
+msgid "Delete"
+msgstr ""
+
+#: View/Equipos/edit.ctp:24
+#: View/Equipos/index.ctp:35
+#: View/Equipos/view.ctp:60
+#: View/Marcas/edit.ctp:16
+#: View/Marcas/index.ctp:19
+#: View/Marcas/view.ctp:20;59
+#: View/Tipos/edit.ctp:16
+#: View/Tipos/index.ctp:19
+#: View/Tipos/view.ctp:20;59
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: View/Equipos/index.ctp:2
+msgid "Equipos"
+msgstr ""
+
+#: View/Equipos/index.ctp:33
+#: View/Marcas/index.ctp:17
+#: View/Marcas/view.ctp:57
+#: View/Tipos/index.ctp:17
+#: View/Tipos/view.ctp:57
+msgid "View"
+msgstr ""
+
+#: View/Equipos/index.ctp:34
+#: View/Marcas/index.ctp:18
+#: View/Marcas/view.ctp:58
+#: View/Tipos/index.ctp:18
+#: View/Tipos/view.ctp:58
+msgid "Edit"
+msgstr ""
+
+#: View/Equipos/index.ctp:44
+#: View/Marcas/index.ctp:28
+#: View/Tipos/index.ctp:28
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr ""
+
+#: View/Equipos/index.ctp:49
+#: View/Marcas/index.ctp:33
+#: View/Tipos/index.ctp:33
+msgid "previous"
+msgstr ""
+
+#: View/Equipos/index.ctp:51
+#: View/Marcas/index.ctp:35
+#: View/Tipos/index.ctp:35
+msgid "next"
+msgstr ""
+
+#: View/Equipos/index.ctp:58
+#: View/Equipos/view.ctp:62
+#: View/Marcas/add.ctp:17
+#: View/Marcas/edit.ctp:19
+#: View/Marcas/index.ctp:44
+#: View/Marcas/view.ctp:24;68
+#: View/Tipos/add.ctp:17
+#: View/Tipos/edit.ctp:19
+#: View/Tipos/index.ctp:44
+#: View/Tipos/view.ctp:24;68
+msgid "New Equipo"
+msgstr ""
+
+#: View/Equipos/view.ctp:2
+msgid "Equipo"
+msgstr ""
+
+#: View/Equipos/view.ctp:4
+#: View/Marcas/view.ctp:4;32
+#: View/Tipos/view.ctp:4;32
+msgid "Id"
+msgstr ""
+
+#: View/Equipos/view.ctp:9
+#: View/Tipos/view.ctp:2
+msgid "Tipo"
+msgstr ""
+
+#: View/Equipos/view.ctp:14
+#: View/Marcas/view.ctp:2
+msgid "Marca"
+msgstr ""
+
+#: View/Equipos/view.ctp:19
+#: View/Marcas/view.ctp:35
+#: View/Tipos/view.ctp:35
+msgid "Numero Serie"
+msgstr ""
+
+#: View/Equipos/view.ctp:24
+#: View/Marcas/view.ctp:36
+#: View/Tipos/view.ctp:36
+msgid "Numero Inventario"
+msgstr ""
+
+#: View/Equipos/view.ctp:29
+#: View/Marcas/view.ctp:37
+#: View/Tipos/view.ctp:37
+msgid "Modelo"
+msgstr ""
+
+#: View/Equipos/view.ctp:34
+#: View/Marcas/view.ctp:38
+#: View/Tipos/view.ctp:38
+msgid "Responsable"
+msgstr ""
+
+#: View/Equipos/view.ctp:39
+#: View/Marcas/view.ctp:39
+#: View/Tipos/view.ctp:39
+msgid "Fecha Compra"
+msgstr ""
+
+#: View/Equipos/view.ctp:44
+#: View/Marcas/view.ctp:40
+#: View/Tipos/view.ctp:40
+msgid "Garantia"
+msgstr ""
+
+#: View/Equipos/view.ctp:49
+#: View/Marcas/view.ctp:41
+#: View/Tipos/view.ctp:41
+msgid "Ubicacion"
+msgstr ""
+
+#: View/Equipos/view.ctp:60
+msgid "Delete Equipo"
+msgstr ""
+
+#: View/Layouts/default.ctp:44
+msgid "Home"
+msgstr ""
+
+#: View/Layouts/default.ctp:45
+msgid "Hardware"
+msgstr ""
+
+#: View/Layouts/default.ctp:46
+msgid "Trands"
+msgstr ""
+
+#: View/Layouts/default.ctp:47
+msgid "Types"
+msgstr ""
+
+#: View/Layouts/default.ctp:48
+msgid "Reports"
+msgstr ""
+
+#: View/Marcas/add.ctp:4
+msgid "Add Marca"
+msgstr ""
+
+#: View/Marcas/edit.ctp:4
+#: View/Marcas/view.ctp:19
+msgid "Edit Marca"
+msgstr ""
+
+#: View/Marcas/index.ctp:2
+msgid "Marcas"
+msgstr ""
+
+#: View/Marcas/view.ctp:9
+#: View/Tipos/view.ctp:9
+msgid "Nombre"
+msgstr ""
+
+#: View/Marcas/view.ctp:20
+msgid "Delete Marca"
+msgstr ""
+
+#: View/Marcas/view.ctp:28
+#: View/Tipos/view.ctp:28
+msgid "Related Equipos"
+msgstr ""
+
+#: View/Marcas/view.ctp:33
+#: View/Tipos/view.ctp:33
+msgid "Tipo Id"
+msgstr ""
+
+#: View/Marcas/view.ctp:34
+#: View/Tipos/view.ctp:34
+msgid "Marca Id"
+msgstr ""
+
+#: View/Tipos/add.ctp:4
+msgid "Add Tipo"
+msgstr ""
+
+#: View/Tipos/edit.ctp:4
+#: View/Tipos/view.ctp:19
+msgid "Edit Tipo"
+msgstr ""
+
+#: View/Tipos/index.ctp:2
+msgid "Tipos"
+msgstr ""
+
+#: View/Tipos/view.ctp:20
+msgid "Delete Tipo"
+msgstr ""
+
+#: Model/Equipo.php:validation for field tipo_id;validation for field marca_id
+msgid "numeric"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:41
+msgid "-> Testing :url"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:67
+msgid "Total Requests made: :requests"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:68
+msgid "Total Time elapsed: :duration (seconds)"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:72
+msgid "Requests/Second: :rps req/sec"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:76
+msgid "Average request time: :average-time seconds"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:80
+msgid "Standard deviation of average request time: :std-dev"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:84
+msgid "Longest/shortest request: :longest sec/:shortest sec"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:134
+msgid "Allows you to obtain some rough benchmarking statisticsabout a fully qualified URL."
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:139
+msgid "The URL to request."
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:144
+msgid "Number of iterations to perform."
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:148
+msgid "Maximum total time for all iterations, in seconds.If a single iteration takes more than the timeout, only one request will be made"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:152
+msgid "Example Use: `cake benchmark --n 10 --t 100 http://localhost/testsite`. <info>Note:</info> this benchmark does not include browser render times."
+msgstr ""
+
+#: Plugin/DebugKit/Controller/Component/ToolbarComponent.php:159
+msgid "Component initialization"
+msgstr ""
+
+#: Plugin/DebugKit/Controller/Component/ToolbarComponent.php:281
+msgid "Controller action"
+msgstr ""
+
+#: Plugin/DebugKit/Controller/Component/ToolbarComponent.php:284
+msgid "Controller action start"
+msgstr ""
+
+#: Plugin/DebugKit/Controller/Component/ToolbarComponent.php:304
+msgid "Processing toolbar state"
+msgstr ""
+
+#: Plugin/DebugKit/Controller/Component/ToolbarComponent.php:327
+msgid "Processing toolbar data"
+msgstr ""
+
+#: Plugin/DebugKit/Controller/Component/ToolbarComponent.php:362
+msgid "Controller render start"
+msgstr ""
+
+#: Plugin/DebugKit/Controller/Component/ToolbarComponent.php:446
+msgid "Could not load DebugToolbar panel %s"
+msgstr ""
+
+#: Plugin/DebugKit/Lib/DebugTimer.php:128
+msgid "Core Processing (Derived from $_SERVER[\"REQUEST_TIME\"])"
+msgstr ""
+
+#: Plugin/DebugKit/Lib/FireCake.php:310
+msgid "Headers already sent in %s on line %s. Cannot send log data to FirePHP."
+msgstr ""
+
+#: Plugin/DebugKit/Lib/FireCake.php:331
+msgid "Incorrect parameter count for FireCake::fb()"
+msgstr ""
+
+#: Plugin/DebugKit/Lib/FireCake.php:410
+msgid "Maximum number (99,999) of messages reached!"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/debug_toolbar.ctp:23
+msgid "There are no active panels. You must enable a panel to see its output."
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/environment_panel.ctp:20
+msgid "App Constants"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/environment_panel.ctp:36
+msgid "CakePHP Constants"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/environment_panel.ctp:52
+msgid "PHP Environment"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/environment_panel.ctp:70
+msgid "Hidef Environment"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/history_panel.ctp:19
+msgid "Request History"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/history_panel.ctp:21
+msgid "No previous requests logged."
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/history_panel.ctp:23
+msgid "previous requests available"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/history_panel.ctp:25
+msgid "Restore to current request"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/include_panel.ctp:19
+msgid "Included Files"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/log_panel.ctp:19
+msgid "Logs"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/log_panel.ctp:27
+msgid "Time"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/log_panel.ctp:27
+#: Plugin/DebugKit/View/Elements/timer_panel.ctp:42;66
+msgid "Message"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/log_panel.ctp:38
+msgid "There were no log entries made this request"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/request_panel.ctp:19
+msgid "Request"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/request_panel.ctp:27
+msgid "No post data."
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/request_panel.ctp:36
+msgid "No querystring data."
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/request_panel.ctp:49
+msgid "Current Route"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/session_panel.ctp:19
+msgid "Session"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/sql_log_panel.ctp:24
+msgid "Sql Logs"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/sql_log_panel.ctp:39
+msgid "No query logs when debug < 2."
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/sql_log_panel.ctp:41
+msgid "No query logs."
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/sql_log_panel.ctp:45
+msgid "Total Time: %s ms <br />Total Queries: %s queries"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/sql_log_panel.ctp:54
+msgid "Query Explain:"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/sql_log_panel.ctp:57
+msgid "Click an \"Explain\" link above, to see the query explanation."
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/sql_log_panel.ctp:63
+msgid "No active database connections"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/timer_panel.ctp:35
+msgid "Memory"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/timer_panel.ctp:38
+msgid "Peak Memory Use"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/timer_panel.ctp:42
+msgid "Memory use"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/timer_panel.ctp:55
+msgid "Timers"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/timer_panel.ctp:57
+msgid "%s (ms)"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/timer_panel.ctp:58
+msgid "Total Request Time:"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/timer_panel.ctp:67
+msgid "Time in ms"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/timer_panel.ctp:68
+msgid "Graph"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/variables_panel.ctp:19
+msgid "View Variables"
+msgstr ""
+
+#: Plugin/DebugKit/View/Helper/DebugTimerHelper.php:45
+msgid "Rendering View"
+msgstr ""
+
+#: Plugin/DebugKit/View/Helper/DebugTimerHelper.php:60
+msgid "Rendering %s"
+msgstr ""
+
+#: Plugin/DebugKit/View/Helper/DebugTimerHelper.php:86
+msgid "View render complete"
+msgstr ""
+
+#: Plugin/DebugKit/View/Helper/HtmlToolbarHelper.php:230
+msgid "Explain"
+msgstr ""
+
+#: Plugin/DebugKit/View/Helper/SimpleGraphHelper.php:80
+msgid "Starting %sms into the request, taking %sms"
+msgstr ""
+
+#: Plugin/DebugKit/View/Helper/TidyHelper.php:99
+msgid "No markup errors found"
+msgstr ""
+
+#: Plugin/DebugKit/View/Helper/ToolbarHelper.php:189
+msgid "maybe slow"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/WhitespaceShell.php:90
+msgid "Absolute path or relative to APP."
+msgstr ""
+
+#: View/Errors/error400.ctp:19
+#: View/Errors/error500.ctp:19
+msgid "Error"
+msgstr ""
+
+#: View/Errors/error400.ctp:21
+msgid "The requested address %s was not found on this server."
+msgstr ""
+
+#: View/Errors/error500.ctp:20
+msgid "An Internal Error Has Occurred."
+msgstr ""
+
+#: View/Layouts/default.ctp:17
+#: View/Layouts/error.ctp:17
+msgid "CakePHP: the rapid development php framework"
+msgstr ""
+
+#: View/Layouts/default.ctp:18
+msgid "CakePHP %s"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:14
+msgid "Release Notes for CakePHP %s."
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:16
+msgid "Read the changelog"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:25
+msgid "URL rewriting is not properly configured on your server."
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:34
+msgid "Your version of PHP is 5.2.8 or higher."
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:38
+msgid "Your version of PHP is too low. You need PHP 5.2.8 or higher to use CakePHP."
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:47
+msgid "Your tmp directory is writable."
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:51
+msgid "Your tmp directory is NOT writable."
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:61
+msgid "The %s is being used for core caching. To change the config edit %s"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:65
+msgid "Your cache is NOT working. Please check the settings in %s"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:75
+msgid "Your database configuration file is present."
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:80
+msgid "Your database configuration file is NOT present."
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:82
+msgid "Rename %s to %s"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:107
+msgid "CakePHP is able to connect to the database."
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:111
+msgid "CakePHP is NOT able to connect to the database."
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:124
+msgid "PCRE has not been compiled with Unicode support."
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:126
+msgid "Recompile PCRE with Unicode support by adding <code>--enable-unicode-properties</code> when configuring"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:135
+msgid "DebugKit plugin is present"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:139
+msgid "DebugKit is not installed. It will help you inspect and debug different aspects of your application."
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:141
+msgid "You can install it from %s"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:147
+msgid "Editing this Page"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:150
+msgid "To change the content of this page, edit: %s.<br />\nTo change its layout, edit: %s.<br />\nYou can also add some CSS styles for your pages at: %s."
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:157
+msgid "Getting Started"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:161
+msgid "New"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:161
+msgid "CakePHP 2.0 Docs"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:170
+msgid "The 15 min Blog Tutorial"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:177
+msgid "Official Plugins"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:182
+msgid "provides a debugging toolbar and enhanced debugging tools for CakePHP applications."
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:186
+msgid "contains various localized validation classes and translations for specific countries"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:191
+msgid "More about CakePHP"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:193
+msgid "CakePHP is a rapid development framework for PHP which uses commonly known design patterns like Active Record, Association Data Mapping, Front Controller and MVC."
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:196
+msgid "Our primary goal is to provide a structured framework that enables PHP users at all levels to rapidly develop robust web applications, without any loss to flexibility."
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:201
+msgid "The Rapid Development Framework"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:202
+msgid "CakePHP Documentation"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:203
+msgid "Your Rapid Development Cookbook"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:204
+msgid "CakePHP API"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:205
+msgid "Quick API Reference"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:206
+msgid "The Bakery"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:207
+msgid "Everything CakePHP"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:208
+msgid "CakePHP Plugins"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:209
+msgid "A comprehensive list of all CakePHP plugins created by the community"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:210
+msgid "CakePHP Community Center"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:211
+msgid "Everything related to the CakePHP community in one place"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:212
+msgid "CakePHP Google Group"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:213
+msgid "Community mailing list"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:215
+msgid "Live chat about CakePHP"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:216
+msgid "CakePHP Code"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:217
+msgid "Find the CakePHP code on GitHub and contribute to the framework"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:218;219
+msgid "CakePHP Issues"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:220;221
+msgid "CakePHP Roadmaps"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:222
+msgid "Training"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:223
+msgid "Join a live session and get skilled with the framework"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:224
+msgid "CakeFest"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:225
+msgid "Don't miss our annual CakePHP conference"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:226
+msgid "Cake Software Foundation"
+msgstr ""
+
+#: View/Pages/Copy of home.ctp:227
+msgid "Promoting development related to CakePHP"
+msgstr ""
+
+#: webroot/test.php:93
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+

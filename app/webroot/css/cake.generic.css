@@ -23,7 +23,7 @@
 
 /** General Style Info **/
 body {
-	background: #003d4c;
+	background: #fff;
 	color: #fff;
 	font-family:'lucida grande',verdana,helvetica,arial,sans-serif;
 	font-size:90%;
@@ -52,7 +52,7 @@ h1 {
 }
 h2 {
 	background:#fff;
-	color: #e32;
+	color: #777;
 	font-family:'Gill Sans','lucida grande', helvetica, arial, sans-serif;
 	font-size: 190%;
 }
@@ -75,8 +75,6 @@ p {
 /** Layout **/
 #container {
 	text-align: left;
-	width: 960px;
-	margin:0 auto;
 }
 
 #header{
@@ -88,17 +86,24 @@ p {
 	color: #fff;
 	padding: 0px 30px;
 }
-#header h1 a {
+#header h1 {
 	color: #fff;
 	background: #003d4c;
 	font-weight: normal;
 	text-decoration: none;
 }
-#header h1 a:hover {
+#header h1{
 	color: #fff;
 	background: #003d4c;
 	text-decoration: underline;
 }
+#header p{
+	color: #000;
+}
+#logo{
+	text-align: center;
+}
+
 #content{
 	background: #fff;
 	clear: both;
@@ -109,13 +114,36 @@ p {
 #footer {
 	clear: both;
 	padding: 6px 10px;
+	text-align: right;
 }
-#header a, #footer a {
+#footer a {
+	color: #000;
+}
+
+
+nav{
+	background-color: #333;
+	height: 40px;
+}
+
+nav ul li{
+	list-style-type: none;
+}
+
+nav ul li a{
 	color: #fff;
+	float: left;
+	padding: 5px;
+	display: inline-block;
+	font-size: 1.4em;
+	text-decoration: none;
+	font-weight: normal;
 }
-#cake-powered {
-	float: right;
+nav ul li a:hover{
+	text-decoration: underline;
+	color: #d4007f;
 }
+
 
 /** containers **/
 div.form,
@@ -273,7 +301,7 @@ fieldset {
 	padding: 16px 10px;
 }
 fieldset legend {
-	color: #e32;
+	color: #777;
 	font-size: 160%;
 	font-weight: bold;
 }

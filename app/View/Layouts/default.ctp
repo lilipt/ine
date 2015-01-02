@@ -14,7 +14,7 @@
  * @license       http://www.opensource.org/licenses/mit-license.php MIT License
  */
 
-$cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework');
+$cakeDescription = __d('cake_dev', 'Instituto Nacional Electoral');
 $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
 ?>
 <!DOCTYPE html>
@@ -38,7 +38,21 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
 <body>
 	<div id="container">
 		<div id="header">
-			<div id="logo"><?php echo $this->Html->image('ine.jpg') ?>
+			<div id="logo"><?php echo $this->Html->image('logo.gif') ?>
+				<p>Control de Inventario de Hardware Unidad de Servicios de Informática<br />
+				Dirección de Operaciones Subdirección de Soporte de Operaciones de Activos Informáticos<br />
+				<strong>Departamento de Soporte</strong></p>
+
+			</div>
+			<nav>
+				<ul>
+					<li><?php echo $this->Html->Link(__("Home"), array("controller"=>"pages", "action"=>"home")); ?></li>
+					<li><?php echo $this->Html->Link(__("Hardware"), array("controller"=>"equipos", "action"=>"index")); ?></li>
+					<li><?php echo $this->Html->Link(__("Trands"), array("controller"=>"marcas", "action"=>"index")); ?></li>
+					<li><?php echo $this->Html->Link(__("Types"), array("controller"=>"tipos", "action"=>"index")); ?></li>
+					<li><?php echo $this->Html->Link(__("Reports"), array("controller"=>"reports", "action"=>"index")); ?></li>
+				</ul>
+			</nav>
 		</div>
 		<div id="content">
 
